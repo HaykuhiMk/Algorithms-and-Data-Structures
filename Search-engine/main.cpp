@@ -7,7 +7,6 @@
 void reader(Text t, const std::string& a, const std::string& b)
 {
     t.readFile("1.txt");
-    
     t.readFile("2.txt");
 }
 

@@ -1,6 +1,6 @@
 #include "lru.h"
 
-LRUCache::LRUCache(int cap) { capacity = cap; }
+LRUCache::LRUCache(int cap) : capacity(cap) {}
 
 // Refers key x with in the LRU cache
 void LRUCache::refer(int x)

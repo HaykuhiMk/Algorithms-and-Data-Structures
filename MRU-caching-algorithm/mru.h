@@ -18,7 +18,7 @@ private:
 	std::list<int> recent;
 	// store references of key in cache
 	std::unordered_map<int, std::list<int>::iterator> cache;
-    // maximum capacity of cache
+    	// maximum capacity of cache
 	int capacity; 
 
 };

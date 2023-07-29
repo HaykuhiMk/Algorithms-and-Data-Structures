@@ -1,7 +1,6 @@
 #include <iostream>
 #include "mru.h"
 
-
 int main() 
 {
     MRUCache cache(3); 

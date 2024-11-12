@@ -163,10 +163,3 @@ v1.copy(v2)
 
 Feel free to fork the repository and submit pull requests with improvements or bug fixes. If you encounter any issues, please open an issue on the GitHub page.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README covers all the main functionalities of your `Vector` class and provides users with an easy guide to integrate and use it in their projects.

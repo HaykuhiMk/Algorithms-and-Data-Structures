@@ -1,7 +1,3 @@
-Here’s a sample README for your GitHub repository to explain how to use the `Vector` class:
-
----
-
 # Vector Class in Python
 
 This repository contains a custom implementation of a `Vector` class in Python, designed to emulate the functionality of a dynamic array or vector that can resize itself as elements are added or removed. The class includes a variety of methods for managing and manipulating vector data, including resizing, adding/removing elements, and element-wise operations.
